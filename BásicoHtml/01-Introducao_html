@@ -1,0 +1,11 @@
+<!-- 
+    primeiramente é assim que escrevemos um comentário em html. Usamos "<!--". 
+    Em html, usa-se tags para expressar as marcações. Todo código HTML se inicia com a tag
+    abaixo, ela serve para sinalizar ao navegador que a linguagem de marcação é html. Html não
+    é considerado uma linguagem de programação, como o java. O html é tido como uma linguagem
+    de marcação, que tem como intuito definir a estrutura básica de qualquer site. Exemplificando, 
+    é como se o HTML fosse o esqueleto de um site, uma espécie de rascunho, a base de um site.
+-->
+<html>
+
+</html>
