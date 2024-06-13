@@ -1,11 +1,13 @@
-#   Aprendendo HTML! 
+#   Aprendendo HTML e CSS! 
 
 Diferentemente do repositório com nome semelhante focado em Java, este terá uma abordagem alternativa.
-A ideia aqui é passar rapidamente por todo o contéudo essencial do html e criar aplicações html. Pretendo 
-conceituar os conceitos de html de uma maneira mais rápida, e elaborar ao menos dois projetos usando apenas
-html, e disponibilizá-los publicamente para qualquer um poder ver na prática.
-
+A ideia aqui é passar rapidamente por todo o contéudo essencial do html e criar páginas html juntamente da estilização com o CSS. Espero que gostem.
 ## Editor de texto utilizado
 
-Estarei usando o Visual Studio Code com extensões para facilitar o desenvolvimento do código. 
+Estarei usando o Sublime text com plugins de HTML5. 
 
+## Como "rodar"
+
+Para "rodar" cada página, é necessário que você faça o download primeiramente, e depois selecione o arquivo e
+o abra no navegador. De maneira ainda mais simplista, selecione o arquivo e o arraste até o navegador. Você pode 
+averiguar os códigos utilizados tanto pelo navegador usando a opção inspecionar, quanto pelo github ou editor de texto. 
